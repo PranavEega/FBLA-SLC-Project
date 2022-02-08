@@ -7,14 +7,10 @@ Install RStudio by clicking executable downloaded.  Press Next >  Choose destina
 
 Download software from Git link https://github.com/PranavEega/FBLA-SLC-Project.git (From Code > Download ZIP)  
 
-Extract the zip file to a directory.
+Extract the zip file to a directory c:\FBLAP
 
-Go to directory and sub directories FBLA-SLC-Project-main\FBLA-SLC-Project-main
+Open RStudio > Open Project > Select directory C:\FBLAP\FBLA-SLC-Project-main and choose file FBLA_SLC_Project.Rproj fro the b.ottom right window
 
-Click fbla.R (Open with RSudio if prompted, select 64-bit or 32 bit depends on you computer architecture)
+Click FBLAP Project.R
 
- 
-
- 
-
- 
+Install Shiny application if prompted
